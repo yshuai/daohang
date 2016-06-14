@@ -1,7 +1,6 @@
-# daohang
-it类网站导航
 
          ##网站导航
+
 ###知识资讯类:
 [知乎](http://www.zhihu.com/)  [简书](http://www.jianshu.com)  [it之家 ](http://www.ithome.com/)
 ###导航
