@@ -15,4 +15,5 @@
 [利器](http://liqi.io/category/sharing/)
 ###壁纸
 [Wallhaven](https://alpha.wallhaven.cc/)
-
+###邮件
+[outlook](https://bay172.mail.live.com/default.aspx?id=64855&owa=1&owasuffix=owa%2f)
