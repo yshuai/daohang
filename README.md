@@ -1,9 +1,9 @@
 
-##网站导航
+## 网站导航
 
-###知识资讯类:
+### 知识资讯类:
 [知乎](http://www.zhihu.com/)  [简书](http://www.jianshu.com)  [it之家 ](http://www.ithome.com/)  [推酷](http://www.tuicool.com) [Quora](http://www.quora.com)
-###导航
+### 导航
 [runningcheese](http://www.runningcheese.com/recommended-sites) [果壳导航](http://gate.guokr.com/)
 ###linux
  [迷渡](https://linux.cn/article-3661-1.html)  [bash的常用操作](http://www.jianshu.com/p/23cf8574272e) [linux中国](http://www.linux.cn/)
