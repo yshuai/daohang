@@ -3,6 +3,8 @@
 
 ### 知识资讯类:
 [知乎](http://www.zhihu.com/)  [简书](http://www.jianshu.com)  [it之家 ](http://www.ithome.com/)  [推酷](http://www.tuicool.com) [Quora](http://www.quora.com)
+### python
+[python进阶](https://gitbook.lylinux.net/interpy-zh/index.html) [Docker](https://gitbook.lylinux.net/docker_practice/index.html) [git](https://gitbook.lylinux.net/progit2-gitbook/index.html) [设计数据密集型应用](https://gitbook.lylinux.net/ddia/index.html) [面试](https://gitbook.lylinux.net/interview/index.html)
 ### 导航
 [runningcheese](http://www.runningcheese.com/recommended-sites) [果壳导航](http://gate.guokr.com/) [aria](http://aria2c.com/)
 ### linux
